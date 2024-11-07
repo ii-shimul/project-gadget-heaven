@@ -196,7 +196,7 @@ const NavBar = ({ cart, wishlist }) => {
         {/* Banner Image */}
         <div
           style={{ transform: "translateX(-50%)" }}
-          className="absolute w-[60%] max-xl:w-[70%] max-lg:w-[80%] left-[50%] max-sm:top-[400px] max-xl:top-[50%] top-[54%] rounded-3xl border p-4 bg-white bg-opacity-30 overflow-hidden shadow-lg"
+          className="absolute w-[60%] max-xl:w-[70%] max-lg:w-[80%] left-[50%] max-sm:top-[400px] top-[450px] rounded-3xl border p-4 bg-white bg-opacity-30 overflow-hidden shadow-lg"
         >
           <div className="rounded-3xl overflow-hidden h-[500px] max-sm:h-fit w-full flex justify-center items-center">
             <img src={bannerImg} className="object-contain h-fit w-fit " />

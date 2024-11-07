@@ -73,7 +73,7 @@ const Details = () => {
     setIsClicked(true);
   }
   return (
-    <div className="mb-96 max-sm:mb-[500px]">
+    <div className="mb-96 max-sm:mb-[650px]">
       <div className="bg-[#9538e2] text-white relative pt-10 pb-36 text-center">
         <h1 className="text-4xl max-sm:text-2xl font-bold  mb-4">Product Details</h1>
         <p className="font-extralight opacity-70 max-sm:text-sm">
