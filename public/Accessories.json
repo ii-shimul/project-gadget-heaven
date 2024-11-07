@@ -1,0 +1,68 @@
+{
+  "Accessories": [
+    {
+      "product_id": 31,
+      "product_title": "Apple AirPods Pro",
+      "product_image": "https://www.tct.com.bd/wp-content/uploads/2022/04/MWP22_720x.jpg",
+      "category": "Accessories",
+      "price": 249,
+      "description": "High-quality wireless earbuds with active noise cancellation.",
+      "Specification": [
+        "Active Noise Cancellation",
+        "Wireless Charging Case",
+        "Sweat & Water Resistant",
+        "Bluetooth 5.0"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 32,
+      "product_title": "Samsung Galaxy Buds Pro",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/2119-44320.jpg",
+      "category": "Accessories",
+      "price": 199,
+      "description": "Wireless earbuds with premium sound and noise cancellation.",
+      "Specification": [
+        "Active Noise Cancellation",
+        "IPX7 Water Resistant",
+        "Bluetooth 5.0",
+        "Wireless Charging"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 33,
+      "product_title": "JBL Flip 5 Portable Speaker",
+      "product_image": "https://www.shopz.com.bd/wp-content/uploads/2021/09/JBL-Flip-5-Eco-Edition-600x600.jpg",
+      "category": "Accessories",
+      "price": 119,
+      "description": "Portable Bluetooth speaker with powerful sound and waterproof design.",
+      "Specification": [
+        "IPX7 Waterproof",
+        "12 Hours Playtime",
+        "Bluetooth 4.2",
+        "Compact Design"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 34,
+      "product_title": "Logitech MX Master 3 Wireless Mouse",
+      "product_image": "https://www.startech.com.bd/image/cache/catalog/mouse/logitech/mx-master-3s/logitech-mx-master-3s-01-500x500.jpg",
+      "category": "Accessories",
+      "price": 99,
+      "description": "Advanced ergonomic mouse with customizations and seamless controls.",
+      "Specification": [
+        "Ergonomic Design",
+        "USB-C Charging",
+        "Bluetooth & USB Receiver",
+        "Customizable Buttons"
+      ],
+      "availability": true,
+      "rating": 4.8
+    }
+  ]
+}

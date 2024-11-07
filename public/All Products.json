@@ -1,0 +1,491 @@
+{
+  "All Products": [
+    {
+      "product_id": 1,
+      "product_title": "Dell XPS 13",
+      "product_image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/9345/media-gallery/touch/gray/notebook-xps-13-9345-t-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=679&qlt=100,1&resMode=sharp2&size=679,402&chrss=full",
+      "category": "Laptops",
+      "price": 1199,
+      "description": "A powerful laptop with a stunning 13.3-inch display and sleek design.",
+      "Specification": [
+        "Intel Core i7 11th Gen",
+        "16GB RAM",
+        "512GB SSD",
+        "13.3-inch FHD Display"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 20,
+      "product_title": "Amazfit GTS 3",
+      "product_image": "https://www.famousgadget.com.bd/image/cache/catalog/Smartwatch/0-Amazfit/Amazfit%20GTS%203%20Smartwatch/Amazfit%20GTS%203%20Smartwatchhg.jpg-1500x1500.jpg",
+      "category": "Smart Watches",
+      "price": 179,
+      "description": "Affordable and stylish smartwatch with extensive fitness features.",
+      "Specification": [
+        "AMOLED Display",
+        "Heart Rate Monitor",
+        "SpO2 Sensor",
+        "Water Resistant"
+      ],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": 13,
+      "product_title": "Google Pixel 6",
+      "product_image": "https://mobilebuzzbd.com/wp-content/uploads/2023/07/Pixel-6-Pro.jpg",
+      "category": "Phones",
+      "price": 599,
+      "description": "Google's flagship phone with a unique design and amazing software.",
+      "Specification": [
+        "128GB Storage",
+        "6.4-inch OLED Display",
+        "50MP Dual Camera",
+        "5G Support"
+      ],
+      "availability": false,
+      "rating": 4.7
+    },
+    {
+      "product_id": 3,
+      "product_title": "HP Spectre x360",
+      "product_image": "https://www.custommacbd.com/cdn/shop/files/spectre-x360-Custom-Mac-BD_14163127-cf94-4c25-b34e-2e5b10efd506.png?v=1708771340",
+      "category": "Laptops",
+      "price": 1299,
+      "description": "A versatile 2-in-1 laptop with a high-resolution touchscreen.",
+      "Specification": [
+        "Intel Core i7 10th Gen",
+        "16GB RAM",
+        "512GB SSD",
+        "13.3-inch 4K UHD Display"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 11,
+      "product_title": "iPhone 13 Pro",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/3412-49256.jpg",
+      "category": "Phones",
+      "price": 999,
+      "description": "The latest iPhone with a powerful A15 Bionic chip and stunning display.",
+      "Specification": [
+        "128GB Storage",
+        "6.1-inch OLED Display",
+        "12MP Triple Camera",
+        "5G Support"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 17,
+      "product_title": "Samsung Galaxy Watch 4",
+      "product_image": "https://gadgetz.com.bd/wp-content/uploads/2022/01/galaxy-watch4-silver-.jpg",
+      "category": "Smart Watches",
+      "price": 249,
+      "description": "A versatile smartwatch with fitness tracking and Wear OS.",
+      "Specification": [
+        "40mm Display",
+        "Body Composition Analysis",
+        "Sleep Tracking",
+        "Water Resistant"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 34,
+      "product_title": "Logitech MX Master 3 Wireless Mouse",
+      "product_image": "https://www.startech.com.bd/image/cache/catalog/mouse/logitech/mx-master-3s/logitech-mx-master-3s-01-500x500.jpg",
+      "category": "Accessories",
+      "price": 99,
+      "description": "Advanced ergonomic mouse with customizations and seamless controls.",
+      "Specification": [
+        "Ergonomic Design",
+        "USB-C Charging",
+        "Bluetooth & USB Receiver",
+        "Customizable Buttons"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 28,
+      "product_title": "Xiaomi Mi Power Bank 3",
+      "product_image": "https://gadgetnmusic.com/wp-content/uploads/2021/07/xiaomi_mi_power_bank_3_1000_mah_18w_qc_3_pd_plata_04_ad_l-600x600.jpg",
+      "category": "Power Banks",
+      "price": 59,
+      "description": "High-capacity power bank with 20000mAh and multiple ports.",
+      "Specification": [
+        "20000mAh Capacity",
+        "USB-C PD & QC 3.0",
+        "Fast Charging"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 15,
+      "product_title": "Xiaomi Mi 11 Ultra",
+      "product_image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1619351700.87548681.png",
+      "category": "Phones",
+      "price": 749,
+      "description": "Flagship phone with powerful specs and excellent camera performance.",
+      "Specification": [
+        "256GB Storage",
+        "6.81-inch AMOLED Display",
+        "50MP Triple Camera",
+        "5G Support"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": 5,
+      "product_title": "Asus ZenBook 14",
+      "product_image": "https://dlcdnwebimgs.asus.com/gain/838fbdac-6d10-4190-8e52-d4b9463f5d23/",
+      "category": "Laptops",
+      "price": 999,
+      "description": "Compact and portable with a long-lasting battery.",
+      "Specification": [
+        "AMD Ryzen 7",
+        "16GB RAM",
+        "512GB SSD",
+        "14-inch FHD Display"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": 6,
+      "product_title": "Microsoft Surface Laptop 4",
+      "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Surface-Laptop-4-Price-in-BD.jpg",
+      "category": "Laptops",
+      "price": 1299,
+      "description": "A lightweight laptop with a touchscreen and great battery life.",
+      "Specification": [
+        "Intel Core i5 11th Gen",
+        "8GB RAM",
+        "256GB SSD",
+        "13.5-inch Touchscreen Display"
+      ],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": 7,
+      "product_title": "Acer Swift 3",
+      "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Acer-Swift-3-SF314-Price-1.jpg",
+      "category": "Laptops",
+      "price": 749,
+      "description": "Affordable laptop with a solid build and decent performance.",
+      "Specification": [
+        "AMD Ryzen 5",
+        "8GB RAM",
+        "512GB SSD",
+        "14-inch FHD Display"
+      ],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": 8,
+      "product_title": "Razer Blade 15",
+      "product_image": "https://assets3.razerzone.com/X_JIbJcZVdafCqHrPaAzvh_qaew=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh2d%2Fhe5%2F9392073998366%2Fblade15-ch8-fhd-2-500x500.png",
+      "category": "Laptops",
+      "price": 2499,
+      "description": "A high-performance gaming laptop with a sleek design.",
+      "Specification": [
+        "Intel Core i7 11th Gen",
+        "16GB RAM",
+        "1TB SSD",
+        "15.6-inch 144Hz Display"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 32,
+      "product_title": "Samsung Galaxy Buds Pro",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/2119-44320.jpg",
+      "category": "Accessories",
+      "price": 199,
+      "description": "Wireless earbuds with premium sound and noise cancellation.",
+      "Specification": [
+        "Active Noise Cancellation",
+        "IPX7 Water Resistant",
+        "Bluetooth 5.0",
+        "Wireless Charging"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 9,
+      "product_title": "Samsung Galaxy Book Pro",
+      "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/SAMSUNG-Galaxy-Book-Pro-Price-in-BD.jpg",
+      "category": "Laptops",
+      "price": 1099,
+      "description": "Ultra-thin and light, with excellent display quality.",
+      "Specification": [
+        "Intel Core i5 11th Gen",
+        "8GB RAM",
+        "512GB SSD",
+        "13.3-inch AMOLED Display"
+      ],
+      "availability": false,
+      "rating": 4.3
+    },
+    {
+      "product_id": 10,
+      "product_title": "LG Gram 16",
+      "product_image": "https://www.zdnet.com/a/img/resize/4abb2a55f73413fb0b30973d5acbd27a544dab1a/2022/07/26/ea9f15e7-66aa-425f-8f13-50cbac4ad0a6/lg-gram-16-2022-770x433.jpg?auto=webp&fit=crop&height=900&width=1200",
+      "category": "Laptops",
+      "price": 1399,
+      "description": "Extremely lightweight 16-inch laptop with great battery life.",
+      "Specification": [
+        "Intel Core i7 11th Gen",
+        "16GB RAM",
+        "1TB SSD",
+        "16-inch WQXGA Display"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 12,
+      "product_title": "Samsung Galaxy S21",
+      "product_image": "https://www.gizmochina.com/wp-content/uploads/2020/12/1-12-500x500.jpg",
+      "category": "Phones",
+      "price": 799,
+      "description": "A powerful phone with a sleek design and excellent camera.",
+      "Specification": [
+        "128GB Storage",
+        "6.2-inch AMOLED Display",
+        "64MP Triple Camera",
+        "5G Support"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 4,
+      "product_title": "Lenovo ThinkPad X1 Carbon",
+      "product_image": "https://aroz.com.bd/wp-content/uploads/2022/10/lenovo-laptops-x1-carbon-6th-gen-hero.webp",
+      "category": "Laptops",
+      "price": 1499,
+      "description": "Lightweight and durable with enterprise-grade security features.",
+      "Specification": [
+        "Intel Core i7 10th Gen",
+        "16GB RAM",
+        "1TB SSD",
+        "14-inch FHD Display"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 14,
+      "product_title": "OnePlus 9 Pro",
+      "product_image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/spec-image/9-pro/Pine%20green-gallery..png",
+      "category": "Phones",
+      "price": 969,
+      "description": "High-performance phone with a stunning screen and fast charging.",
+      "Specification": [
+        "256GB Storage",
+        "6.7-inch AMOLED Display",
+        "48MP Quad Camera",
+        "5G Support"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 2,
+      "product_title": "MacBook Pro 14-inch",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/3710-49683.jpg",
+      "category": "Laptops",
+      "price": 1999,
+      "description": "The MacBook Pro with M1 Pro chip, delivering powerful performance.",
+      "Specification": [
+        "Apple M1 Pro",
+        "16GB RAM",
+        "512GB SSD",
+        "14-inch Retina Display"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+
+    {
+      "product_id": 16,
+      "product_title": "Apple Watch Series 7",
+      "product_image": "https://mobilexchangebd.com/storage/general/apple-watch-series-7-45mm-gps-smartwatch.jpg",
+      "category": "Smart Watches",
+      "price": 399,
+      "description": "The latest Apple Watch with advanced health tracking and a larger display.",
+      "Specification": [
+        "45mm Display",
+        "Blood Oxygen Sensor",
+        "ECG App",
+        "Water Resistant"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+
+    {
+      "product_id": 18,
+      "product_title": "Garmin Venu 2",
+      "product_image": "https://ph.garmin.com/m/ph/g/products/venu-2-blue-cf-lg.jpg",
+      "category": "Smart Watches",
+      "price": 399,
+      "description": "A smartwatch with advanced fitness tracking and health insights.",
+      "Specification": [
+        "AMOLED Display",
+        "Heart Rate Monitoring",
+        "GPS",
+        "Water Resistant"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": 19,
+      "product_title": "Fitbit Versa 3",
+      "product_image": "https://i5.walmartimages.com/seo/Fitbit-FB511GLPK-Versa-3-Smartwatch-Pink-Clay-Soft-Gold_17f5aeda-3019-48b8-a13c-3b5762bbb8fa.b023e3e5615b2e1e1e2a2340807b7ac8.jpeg",
+      "category": "Smart Watches",
+      "price": 229,
+      "description": "Affordable smartwatch with fitness tracking and GPS.",
+      "Specification": [
+        "AMOLED Display",
+        "Heart Rate Monitor",
+        "GPS",
+        "Sleep Tracking"
+      ],
+      "availability": true,
+      "rating": 4.3
+    },
+
+    {
+      "product_id": 21,
+      "product_title": "Anker PowerPort III Nano",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Anker-PowerPort-III-Nano-20W---3PIN-7741.jpg",
+      "category": "Chargers",
+      "price": 59,
+      "description": "Compact and powerful charger with fast charging capability.",
+      "Specification": [
+        "20W USB-C",
+        "Fast Charging",
+        "Compact Design",
+        "Compatible with iPhone & Samsung"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 22,
+      "product_title": "Apple 20W USB-C Power Adapter",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/1526-85853.jpg",
+      "category": "Chargers",
+      "price": 54,
+      "description": "Official Apple fast charger with 20W output.",
+      "Specification": ["20W USB-C", "Fast Charging", "Apple Compatible"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 23,
+      "product_title": "Samsung 25W Super Fast Charger",
+      "product_image": "https://images.samsung.com/is/image/samsung/p6pim/levant/ep-ta800xbegww/gallery/levant-wall-charger-for-super-fast-charging-25w-ep-ta800xbegww-537601918?$650_519_PNG$",
+      "category": "Chargers",
+      "price": 64,
+      "description": "Super fast charger with USB-C and 25W output for Samsung devices.",
+      "Specification": ["25W USB-C", "Fast Charging", "Samsung Compatible"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 24,
+      "product_title": "Spigen 27W Dual Port Charger",
+      "product_image": "https://gadgetnmusic.com/wp-content/uploads/2024/04/Spigen-ArcStation-27W-USB-C-Fast-Charging-Adapter-PE2103UK-5.jpg",
+      "category": "Chargers",
+      "price": 79,
+      "description": "Dual port charger with 27W output, supports USB-C and USB-A.",
+      "Specification": [
+        "27W Output",
+        "Dual Port (USB-C & USB-A)",
+        "Fast Charging"
+      ],
+      "availability": false,
+      "rating": 4.4
+    },
+    {
+      "product_id": 26,
+      "product_title": "Anker PowerCore 20100",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/2001-79403.jpg",
+      "category": "Power Banks",
+      "price": 50,
+      "description": "High-capacity portable charger with 20100mAh battery.",
+      "Specification": [
+        "20100mAh Capacity",
+        "Dual USB Ports",
+        "Fast Charging",
+        "Compact Design"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 27,
+      "product_title": "RAVPower Portable Charger 10000mAh",
+      "product_image": "https://www.ravpower.com/cdn/shop/files/186_94cebca8-ed0d-4dd7-8f7b-c373685cefc7.png?v=1713435925",
+      "category": "Power Banks",
+      "price": 59,
+      "description": "Compact power bank with 10000mAh capacity.",
+      "Specification": [
+        "10000mAh Capacity",
+        "USB-C and USB-A Ports",
+        "Fast Charging"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+
+    {
+      "product_id": 31,
+      "product_title": "Apple AirPods Pro",
+      "product_image": "https://www.tct.com.bd/wp-content/uploads/2022/04/MWP22_720x.jpg",
+      "category": "Accessories",
+      "price": 249,
+      "description": "High-quality wireless earbuds with active noise cancellation.",
+      "Specification": [
+        "Active Noise Cancellation",
+        "Wireless Charging Case",
+        "Sweat & Water Resistant",
+        "Bluetooth 5.0"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 33,
+      "product_title": "JBL Flip 5 Portable Speaker",
+      "product_image": "https://www.shopz.com.bd/wp-content/uploads/2021/09/JBL-Flip-5-Eco-Edition-600x600.jpg",
+      "category": "Accessories",
+      "price": 119,
+      "description": "Portable Bluetooth speaker with powerful sound and waterproof design.",
+      "Specification": [
+        "IPX7 Waterproof",
+        "12 Hours Playtime",
+        "Bluetooth 4.2",
+        "Compact Design"
+      ],
+      "availability": true,
+      "rating": 4.7
+    }
+  ]
+}

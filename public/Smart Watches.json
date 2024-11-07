@@ -1,0 +1,84 @@
+{
+  "Smart Watches":[
+    {
+      "product_id": 16,
+      "product_title": "Apple Watch Series 7",
+      "product_image": "https://mobilexchangebd.com/storage/general/apple-watch-series-7-45mm-gps-smartwatch.jpg",
+      "category": "Smart Watches",
+      "price": 399,
+      "description": "The latest Apple Watch with advanced health tracking and a larger display.",
+      "Specification": [
+        "45mm Display",
+        "Blood Oxygen Sensor",
+        "ECG App",
+        "Water Resistant"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 17,
+      "product_title": "Samsung Galaxy Watch 4",
+      "product_image": "https://gadgetz.com.bd/wp-content/uploads/2022/01/galaxy-watch4-silver-.jpg",
+      "category": "Smart Watches",
+      "price": 249,
+      "description": "A versatile smartwatch with fitness tracking and Wear OS.",
+      "Specification": [
+        "40mm Display",
+        "Body Composition Analysis",
+        "Sleep Tracking",
+        "Water Resistant"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 18,
+      "product_title": "Garmin Venu 2",
+      "product_image": "https://ph.garmin.com/m/ph/g/products/venu-2-blue-cf-lg.jpg",
+      "category": "Smart Watches",
+      "price": 399,
+      "description": "A smartwatch with advanced fitness tracking and health insights.",
+      "Specification": [
+        "AMOLED Display",
+        "Heart Rate Monitoring",
+        "GPS",
+        "Water Resistant"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": 19,
+      "product_title": "Fitbit Versa 3",
+      "product_image": "https://i5.walmartimages.com/seo/Fitbit-FB511GLPK-Versa-3-Smartwatch-Pink-Clay-Soft-Gold_17f5aeda-3019-48b8-a13c-3b5762bbb8fa.b023e3e5615b2e1e1e2a2340807b7ac8.jpeg",
+      "category": "Smart Watches",
+      "price": 229,
+      "description": "Affordable smartwatch with fitness tracking and GPS.",
+      "Specification": [
+        "AMOLED Display",
+        "Heart Rate Monitor",
+        "GPS",
+        "Sleep Tracking"
+      ],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": 20,
+      "product_title": "Amazfit GTS 3",
+      "product_image": "https://www.famousgadget.com.bd/image/cache/catalog/Smartwatch/0-Amazfit/Amazfit%20GTS%203%20Smartwatch/Amazfit%20GTS%203%20Smartwatchhg.jpg-1500x1500.jpg",
+      "category": "Smart Watches",
+      "price": 179,
+      "description": "Affordable and stylish smartwatch with extensive fitness features.",
+      "Specification": [
+        "AMOLED Display",
+        "Heart Rate Monitor",
+        "SpO2 Sensor",
+        "Water Resistant"
+      ],
+      "availability": true,
+      "rating": 4.2
+    }
+  ]
+}

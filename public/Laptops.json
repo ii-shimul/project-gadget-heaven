@@ -1,0 +1,164 @@
+{
+  "Laptops": [
+    {
+      "product_id": 1,
+      "product_title": "Dell XPS 13",
+      "product_image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/9345/media-gallery/touch/gray/notebook-xps-13-9345-t-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=679&qlt=100,1&resMode=sharp2&size=679,402&chrss=full",
+      "category": "Laptops",
+      "price": 1199,
+      "description": "A powerful laptop with a stunning 13.3-inch display and sleek design.",
+      "Specification": [
+        "Intel Core i7 11th Gen",
+        "16GB RAM",
+        "512GB SSD",
+        "13.3-inch FHD Display"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 2,
+      "product_title": "MacBook Pro 14-inch",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/3710-49683.jpg",
+      "category": "Laptops",
+      "price": 1999,
+      "description": "The MacBook Pro with M1 Pro chip, delivering powerful performance.",
+      "Specification": [
+        "Apple M1 Pro",
+        "16GB RAM",
+        "512GB SSD",
+        "14-inch Retina Display"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 3,
+      "product_title": "HP Spectre x360",
+      "product_image": "https://www.custommacbd.com/cdn/shop/files/spectre-x360-Custom-Mac-BD_14163127-cf94-4c25-b34e-2e5b10efd506.png?v=1708771340",
+      "category": "Laptops",
+      "price": 1299,
+      "description": "A versatile 2-in-1 laptop with a high-resolution touchscreen.",
+      "Specification": [
+        "Intel Core i7 10th Gen",
+        "16GB RAM",
+        "512GB SSD",
+        "13.3-inch 4K UHD Display"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 4,
+      "product_title": "Lenovo ThinkPad X1 Carbon",
+      "product_image": "https://aroz.com.bd/wp-content/uploads/2022/10/lenovo-laptops-x1-carbon-6th-gen-hero.webp",
+      "category": "Laptops",
+      "price": 1499,
+      "description": "Lightweight and durable with enterprise-grade security features.",
+      "Specification": [
+        "Intel Core i7 10th Gen",
+        "16GB RAM",
+        "1TB SSD",
+        "14-inch FHD Display"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 5,
+      "product_title": "Asus ZenBook 14",
+      "product_image": "https://dlcdnwebimgs.asus.com/gain/838fbdac-6d10-4190-8e52-d4b9463f5d23/",
+      "category": "Laptops",
+      "price": 999,
+      "description": "Compact and portable with a long-lasting battery.",
+      "Specification": [
+        "AMD Ryzen 7",
+        "16GB RAM",
+        "512GB SSD",
+        "14-inch FHD Display"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": 6,
+      "product_title": "Microsoft Surface Laptop 4",
+      "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Surface-Laptop-4-Price-in-BD.jpg",
+      "category": "Laptops",
+      "price": 1299,
+      "description": "A lightweight laptop with a touchscreen and great battery life.",
+      "Specification": [
+        "Intel Core i5 11th Gen",
+        "8GB RAM",
+        "256GB SSD",
+        "13.5-inch Touchscreen Display"
+      ],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": 7,
+      "product_title": "Acer Swift 3",
+      "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Acer-Swift-3-SF314-Price-1.jpg",
+      "category": "Laptops",
+      "price": 749,
+      "description": "Affordable laptop with a solid build and decent performance.",
+      "Specification": [
+        "AMD Ryzen 5",
+        "8GB RAM",
+        "512GB SSD",
+        "14-inch FHD Display"
+      ],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": 8,
+      "product_title": "Razer Blade 15",
+      "product_image": "https://assets3.razerzone.com/X_JIbJcZVdafCqHrPaAzvh_qaew=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh2d%2Fhe5%2F9392073998366%2Fblade15-ch8-fhd-2-500x500.png",
+      "category": "Laptops",
+      "price": 2499,
+      "description": "A high-performance gaming laptop with a sleek design.",
+      "Specification": [
+        "Intel Core i7 11th Gen",
+        "16GB RAM",
+        "1TB SSD",
+        "15.6-inch 144Hz Display"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 9,
+      "product_title": "Samsung Galaxy Book Pro",
+      "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/SAMSUNG-Galaxy-Book-Pro-Price-in-BD.jpg",
+      "category": "Laptops",
+      "price": 1099,
+      "description": "Ultra-thin and light, with excellent display quality.",
+      "Specification": [
+        "Intel Core i5 11th Gen",
+        "8GB RAM",
+        "512GB SSD",
+        "13.3-inch AMOLED Display"
+      ],
+      "availability": false,
+      "rating": 4.3
+    },
+    {
+      "product_id": 10,
+      "product_title": "LG Gram 16",
+      "product_image": "https://www.zdnet.com/a/img/resize/4abb2a55f73413fb0b30973d5acbd27a544dab1a/2022/07/26/ea9f15e7-66aa-425f-8f13-50cbac4ad0a6/lg-gram-16-2022-770x433.jpg?auto=webp&fit=crop&height=900&width=1200",
+      "category": "Laptops",
+      "price": 1399,
+      "description": "Extremely lightweight 16-inch laptop with great battery life.",
+      "Specification": [
+        "Intel Core i7 11th Gen",
+        "16GB RAM",
+        "1TB SSD",
+        "16-inch WQXGA Display"
+      ],
+      "availability": true,
+      "rating": 4.6
+    }
+  ]
+}

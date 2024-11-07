@@ -1,0 +1,57 @@
+{
+  "Chargers":[
+    {
+      "product_id": 21,
+      "product_title": "Anker PowerPort III Nano",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Anker-PowerPort-III-Nano-20W---3PIN-7741.jpg",
+      "category": "Chargers",
+      "price": 59,
+      "description": "Compact and powerful charger with fast charging capability.",
+      "Specification": [
+        "20W USB-C",
+        "Fast Charging",
+        "Compact Design",
+        "Compatible with iPhone & Samsung"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 22,
+      "product_title": "Apple 20W USB-C Power Adapter",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/1526-85853.jpg",
+      "category": "Chargers",
+      "price": 54,
+      "description": "Official Apple fast charger with 20W output.",
+      "Specification": ["20W USB-C", "Fast Charging", "Apple Compatible"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 23,
+      "product_title": "Samsung 25W Super Fast Charger",
+      "product_image": "https://images.samsung.com/is/image/samsung/p6pim/levant/ep-ta800xbegww/gallery/levant-wall-charger-for-super-fast-charging-25w-ep-ta800xbegww-537601918?$650_519_PNG$",
+      "category": "Chargers",
+      "price": 64,
+      "description": "Super fast charger with USB-C and 25W output for Samsung devices.",
+      "Specification": ["25W USB-C", "Fast Charging", "Samsung Compatible"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 24,
+      "product_title": "Spigen 27W Dual Port Charger",
+      "product_image": "https://gadgetnmusic.com/wp-content/uploads/2024/04/Spigen-ArcStation-27W-USB-C-Fast-Charging-Adapter-PE2103UK-5.jpg",
+      "category": "Chargers",
+      "price": 79,
+      "description": "Dual port charger with 27W output, supports USB-C and USB-A.",
+      "Specification": [
+        "27W Output",
+        "Dual Port (USB-C & USB-A)",
+        "Fast Charging"
+      ],
+      "availability": false,
+      "rating": 4.4
+    }
+  ]
+}
